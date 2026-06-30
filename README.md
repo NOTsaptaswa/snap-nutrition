@@ -1,7 +1,11 @@
 # SnapNutrition 🍽️
 
 An AI-powered food recognition and nutrition tracking app built with Flutter. Snap a photo of your food, and SnapNutrition uses an on-device machine learning model to identify what you're eating and log it to the cloud — no internet round-trip required for classification.
+## 📱 Screenshots
 
+| Login | Scan | Classification Result | History |
+|---|---|---|---|
+| ![Login](screenshots/login.png) | ![Scan](screenshots/scan_empty.png) | ![Result](screenshots/scan_result.png) | ![History](screenshots/history.png) |
 ## ✨ Features
 
 - 📸 **Photo-based food logging** — capture or pick a photo and get an instant classification
